@@ -27,6 +27,16 @@ Senior  - STM	:: 10+ yrs
 
 =====================================================================
 
+SDLC:::
+========
+Req gathering >> Req analysis >>> Design >> Coding >>> Testing >>> Deploy live/ production
+
+SDLC MODELS:::::
+================
+waterfall model 
+v - model
+
+
 
 
 
