@@ -1,0 +1,88 @@
+
+::::::: TESTING :::::
+class 1 ::
+
+why?? :: 
+To Provide Quality of the product.
+To Perform development activities and testng activities at the same time. like parallely.
+To Identify the issues, In starting stages.
+Testing ensures that the software meets the specified quality standards and requirements. 
+It helps verify that the application behaves as expected under different scenarios and user interactions.
+To achieve a reliable and stable product.
+By delivering a high-quality and error-free product
+
+Identifying Bugs: 
+=================
+Testing helps uncover defects or bugs in the software. By executing various test cases, developers and testers can detect issues such as functionality errors, performance bottlenecks, security vulnerabilities, and usability problems.
+
+Improving User Experience:
+==========================
+Testing helps in evaluating the user experience (UX) of the software. By conducting usability testing, developers can gather feedback on the user interface, navigation flow, and overall usability aspects, enabling them to make necessary improvements for a better user experience.
+
+Roles::
+Software test Engineer - SDE : 0 -4 yrs
+Senior - STE :: 4 to 6 yrs
+Test Lead - TL :: 6 - 8 yrs.
+Test Manger - TM  :: 8 -10 yrs 
+Senior  - STM	:: 10+ yrs
+
+=====================================================================
+
+SDLC:::
+========
+Req gathering >> Req analysis >>> Design >> Coding >>> Testing >>> Deploy live/ production
+
+SDLC MODELS::::: After SDLC WE LEARN
+====================================
+Waterfall model 
+Agile model
+
+
+MADHUKAR SIR ::
+===============
+SOFTWARE TESTING ??
+IT IS COMBINATION OF VERIFICATION AND VALIDATION OF AN APPLICATION.
+VERIFICATION  ::  ARE WE DEVELOPING RIGHT APPLICATION OR NOT?
+VALIDATION    ::  ARE WE DEVELOPED RIGHT APPLICATION OR NOT?
+
+QUALITY TESTING :::
+FROM PRODUCER POINT OF VIEW WHEN APPLICATION FULFILLED WITH ALL THE CLIENTS REQUIREMENTS FROM END USER POINT OF VIEW WHEN APPLICATION FIT FOR USE THEN IT IS CONSIDERED AS QUALITY TESTING.
+
+BUDGET >>
+INTIME RELEASE >> 
+RELIABILITY :: TWO FACTORS 
+		1.  MEET CLIENT REQUIREMENTS IN TERMS OF FUNCTIONALITIES.
+		2.  MEET CLIENT REQUIREMENTS IN TERMS OF SPEED, COMPATIBILITIES, USER INTERFACE, USABILITY, SECURITY, MAINTAINBILITY ETC..,
+
+ADVANTAGES ::: 
+	1. TO DELIVER REALABLE PRODUCT, REDUCE MAINTAINENCE COST, BUG FREE APPLICATION >> 
+===================================================
+ERRORS :: 
+MISTAKES IDENTIFIED WHILE WRITING PROGRAMS.
+LOGICAL ERRORS AND SYNTAX ERRORS.
+DEFECT :: 
+IT IS THE DEVIATION B/W EXPECTED RESULT AND ACTUAL RESULT IN AUT.
+
+	AUT :: AUT stands for "Application Under Test." It refers to the software application or system that is being tested by developers or quality assurance professionals to ensure its functionality, reliability, performance, and other quality attributes. The AUT could be any software product, such as a web application, mobile app, desktop software, or embedded system, that is undergoing testing as part of the software development lifecycle.
+
+	"SUT" stands for "System Under Test." It refers to the entire system or software component that is being tested. The SUT includes not only the application or software being developed but also any associated hardware, databases, networks, and external dependencies that are part of the system being tested.
+
+BUG::
+ WHEN DEVELOPERS ACCEPT THE DEFECTS IDENTIFIED BY TESETERS THEN WE CALL IT AS BUGS.
+
+FAILURES :: WHEN APPLICATION NOT WORKING IN PROCDUCTION ENVIRONMENT.
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
